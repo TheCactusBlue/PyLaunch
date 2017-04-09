@@ -8,5 +8,5 @@ Made with Python by CactusBlue (or Randomness, or whatever you prefer to call me
 * Feature packed
 * Open source
 
-#Build Guide
+# Build Guide
 Coming soon. I don't know how to do it myself either. :P
