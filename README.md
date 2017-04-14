@@ -14,3 +14,6 @@ Made with Python 3 by CactusBlue (or Randomness, or whatever you prefer to call 
 
 # Build Guide
 Coming soon. I don't know how to do it myself either. :P
+
+# License
+This project is licensed under MIT license. Feel free to use this in whatever!
