@@ -16,4 +16,4 @@ Made with Python 3 by CactusBlue (or Randomness, or whatever you prefer to call 
 Coming soon. I don't know how to do it myself either. :P
 
 # License
-This project is licensed under MIT license. Feel free to use this in whatever!
+This project is licensed under CBL1 License, a custom license I have created. It's open source, and anyone can use it, provided that they make it open-source as well. If you don't want to go open source, contact TheCactusBlue\#9788 on Discord, TheCactusBlue on skype, CactusBlue on Hypixel forums or thecactusblue@gmail.com.
