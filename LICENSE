@@ -1,21 +1,20 @@
-MIT License
-
+CBL1 
 Copyright (c) 2017 CactusBlue
+-----------------------------------------
+This license is a custom license by CactusBlue. It is a semi-copyleft license which promotes open source, yet be highly permissive, as well as granting the creator some additional benefits.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license can be summarized into a few dot points:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Without the permission from the creator, this software is considered copyleft. Anyone can use, modify and redistribute the software for free of charge. THE HOLDER OF THIS LICENSE IS NOT LIABLE FOR CLAIMS, DAMAGES OR ANYTHING. if either distributed or modified, it must be licensed with CBL0 license, which doesn't come with any creator rights. It is stated below:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+CBL0
+CBL1 Copyright (c) CactusBlue
+-----------------------------------------
+This license is a sub-license of the CBL license, that is used when a CBL1 is modified or redistributed.
+The copyright notice above must be included.
+This license grants you permission to use, modify, reproduce, display, or redistribute this software for free of charge, as long as it is under CBL0. THE HOLDER OF THIS LICENSE IS NOT LIABLE FOR CLAIMS, DAMAGES OR ANYTHING.
+-----------------------------------------
+
+2. The creator has the rights to redistribute this code to under a different license to a different group. It is non-copyleft, and can be under any license, even proprietry or CBL with creator rights. In this case, the holder is liable for claims and damages.
+
+3. THIS SOFTWARE DOES NOT HAVE A WARRARANTY OF ANY KIND.
