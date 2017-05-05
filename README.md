@@ -1,6 +1,6 @@
-# SkyLaunch
-SkyLaunch is the launcher built by Blocked Sky Hypixel guild, but for the entire MC community.
-Made with Python 3 by CactusBlue (or Randomness, or whatever you prefer to call me)
+# PyLaunch
+PyLaunch is the launcher built for the entire MC community.
+Made with Python 3 and <3 by CactusBlue (or Randomness, or whatever you prefer to call me)
 
 # Features
 * Highly modular, ease of editing - It can be easily edited with Python.
