@@ -61,8 +61,7 @@ class Profile:
                                 zipfile.extract(name, "minecraft/natives")
                         zipfile.close()
                     except BadZipfile:
-                        print
-                        "!!! BAD JAR/ZIP FILE !!!"
+                        print("BAD JAR/ZIP FILE")
                         try:
                             os.remove(libpath)
                         except:
