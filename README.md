@@ -1,6 +1,6 @@
 # PyLaunch
 PyLaunch is the launcher built for the entire MC community.
-Made with Python 3 and <3 by CactusBlue (or Randomness, or whatever you prefer to call me)
+Made by CactusBlue with <3, using Python 3 :)
 
 # Features
 * Highly modular, ease of editing - It can be easily edited with Python.
@@ -8,12 +8,20 @@ Made with Python 3 and <3 by CactusBlue (or Randomness, or whatever you prefer t
 * Easy to deploy - good for server admins/modpack makers
 * Open source - driven by the community!
 
+# Currently what it does
+* gets auth tokens from Mojang Authservers.
+* Downloads MC files, from any version.
+* ACTUALLY LAUNCHES!
+
 # To Do
-* Actually launching Minecraft. It's coming along quite well, I need to say.
-* Pretty much anything. This is FAR from complete.
+* A login system, better Auth token management.
+* Modpack system.
+* More customizability.
+* Optimisations.
+* A GUI.
 
 # Build Guide
 Coming soon. I don't know how to do it myself either. :P
 
 # License
-This project is licensed under CBL1 License, a custom license I have created. It's open source, and anyone can use it, provided that they make it open-source as well. If you don't want to go open source, contact TheCactusBlue\#9788 on Discord, TheCactusBlue on skype, CactusBlue on Hypixel forums or thecactusblue@gmail.com. It's priced at $10.
+This project is under MIT License. Do whatever you want, but just credit me.
